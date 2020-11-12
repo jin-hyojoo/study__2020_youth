@@ -41,7 +41,6 @@ print(result)
 #1-100까지 3의 배수 제거
 result = [i for i in range(1,101) if i%3 != 0]
 print(result)
-
 #--------------------------------- 어제 수업 REVIEW END
 
 print('-'*30, '11월 10일 수업 시작 ', '▶'*10)

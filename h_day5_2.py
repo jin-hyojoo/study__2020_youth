@@ -7,6 +7,7 @@
 
      파일입출력
      파일변수  = open(파일경로, 'r'/'w'/'a', encoding='utf-8/cp949')
+                            read, write, append
      파일변수.파일입출력함수(옵션)
     
      파일읽기
@@ -19,13 +20,13 @@
 
 import os
 
-#현재 작업폴더 확인
+#현재 작업폴더 확인 (current working directory)
 print(os.getcwd()) #C:\Anaconda3\python.exe C:/pyclass/h_day5_2.py
 
-#작업폴더 변경
+#작업폴더 변경 (change directory)
 #os.chdir('data') #C:\pyclass
 
-#디렉토리안의 파일 목록을 리스트로 출력
+#디렉토리안의 파일 목록을 리스트로 출력 (list directory)
 print(os.listdir(os.getcwd()))
 
 #파일 변수 생성

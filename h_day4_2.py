@@ -299,7 +299,7 @@ print(f'오늘은 {dayList[today]} 입니다')
 # time 모듈 이용하기
 
 # time.time() : 현재 시간을 실수 형태로 리턴한다.
-# time.localtime(time.time()) : time.time()의 값을 년도, 월, 일, 시, 분, 초로 변경 -> 튜플 자료 구조 형태
+# time.localtime(time.time()) : time.time()의 값을 년도, 월, 일, 시, 분, 초로 변경 -> 리스트 자료 구조 형태
 
 # 시간에 관련된 속성 리스트화
 import time #타임모듈 임포트
@@ -353,5 +353,5 @@ m = time.strftime("%m", time.localtime(time.time()))
 d = time.strftime("%d", time.localtime(time.time()))
 r = time.strftime("%j", time.localtime(time.time()))
 
-print(f'오늘은 {m} 월  {d} 입니다.')
+print(f'오늘은 {m} 월  {d} 일 입니다.')
 print(f'1년을 기준으로 {r} 번째 날입니다.')
