@@ -1,8 +1,3 @@
-['라면', '케이크', '무뼈닭발', '마라샹궈', '마카롱', '플랫화이트']
-
-	라면
-	케이크
-	무뼈닭발
-	마라샹궈
-	마카롱
-	플랫화이트
+version https://git-lfs.github.com/spec/v1
+oid sha256:11a57ab6fbc294268e59533b8ab60f5826b793e39e5f7273b3c3846c15f0b7a3
+size 170
