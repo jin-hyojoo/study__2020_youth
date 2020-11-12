@@ -1,0 +1,3 @@
+= = = = = = = = = = = = = = = = = = = = file write testing~
+today we gonna learn about python
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
