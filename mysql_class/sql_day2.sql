@@ -1,3 +1,5 @@
+/* 11.20(FRI) 수업*/
+
 USE sqldb;
 SHOW TABLES;
 DESC buyTbl;
