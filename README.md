@@ -12,11 +12,12 @@
 ##### hday　　　7-2.py　　　✔ [모듈](https://wikidocs.net/29) / [패키지](https://wikidocs.net/1418) / [예외처리](https://wikidocs.net/30)
 ##### hday 8-1 ~ 8-2.py　　　✔ [예외처리](https://wikidocs.net/30) / [CSV](https://docs.python.org/ko/3.7/library/csv.html)
 ##### hday 9-1 ~ 9-2.py　　　✔ [정규표현식](https://wikidocs.net/1642)
-    참고 : 파이썬 튜토리얼 <https://www.pythontutorial.net>
+##### ✋ [파이썬 튜토리얼](https://www.pythontutorial.net)
 
   
     
 ## 🐬_MYSQL  
 수업 때 작성된 sql문 파일자료는 Mysql_class 폴더에 저장
 ##### sqlday 　1.sql　　　DDL(create, drop), DML(select, insert), WHERE(and, or, between, like, in, any, subquery), ORDER BY, [LIMIT](https://www.mysqltutorial.org/mysql-limit.aspx)
-    참고 : Mysql 튜토리얼 <https://www.mysqltutorial.org/basic-mysql-tutorial.aspx>
+##### sqlday 　2.sql　　　DML(update), 집계함수, @SET, ROLL UP, CASTING, GROUP BY, HAVING, 다중분기, CONCAT, FORMAT, 특정글자교체   
+##### ✋ [Mysql 튜토리얼](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
