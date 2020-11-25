@@ -14,10 +14,13 @@
 ##### hday 9-1 ~ 9-2.py　　　✔ [정규표현식](https://wikidocs.net/1642)
 ##### ✋ 더 알아보기 [파이썬 튜토리얼](https://www.pythontutorial.net)
 
-  
-    
+
 ## 🐬_MYSQL  
 수업 때 작성된 sql문 파일자료는 Mysql_class 폴더에 저장
-##### sqlday 　1.sql　　　DDL, DML, WHERE(and, or, between, like, in, any, subquery), ORDER BY, [LIMIT](https://www.mysqltutorial.org/mysql-limit.aspx)
+##### sqlday 　1.sql　　　DDL, DML, WHERE(and, or, between, like, in, any, subquery), ORDER BY, LIMIT ...
 ##### sqlday 　2.sql　　　집계함수, @SET, ROLL UP, CASTING, GROUP BY, HAVING, 다중분기, CONCAT, FORMAT ...
+##### sqlday 　3.sql　　　문자열함수, 날짜함수, INNER JOIN, 3 TABLES JOIN ...
+##### sqlday 　4.sql　　　OUTER JOIN, CROSS JOIN, SELF JOIN, UNION, IN/NOT IN, VIEW ...
+##### sqlday 　5.sql　　　DB관련 명령어, TABLE관련 명령어, CONSTRAINT(PK,FK)관련,  ... (+)pymysql
+
 ##### ✋ 더 알아보기 [Mysql 튜토리얼](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
