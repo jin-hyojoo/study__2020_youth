@@ -18,6 +18,6 @@ cursor.execute("""
                     price int not null, -- 대여 가격
                     period int not null -- 대여 기간
                 );
-""")
-# 워크벤치에서 생성됐는지 확인
+""") # 워크벤치에서 생성됐는지 확인
+
 conn.close()
