@@ -1,5 +1,6 @@
 ## ✨ 2020 youth academy (청년취업아카데미) 
 파이썬 기반 머신러닝 응용 웹서비스 개발   
+<br>
 
 - ## 🐍_PYTHON
 ##### hday 　1 ~ 3-1.py　　　✔ [자료형](https://wikidocs.net/12) 
@@ -14,7 +15,7 @@
 ##### hday 9-1 ~ 9-2.py　　　✔ [정규표현식](https://wikidocs.net/1642)
 ##### sqlPython 1~7.py　　　✔ [PYMYSQL](https://blog.naver.com/hyojoo_97/222155885217)
 ##### ✋ 더 알아보기 [파이썬 튜토리얼](https://www.pythontutorial.net)
-
+<br>
 
 - ## 🐬_MYSQL  
 수업 때 작성된 sql문 파일자료는 Mysql_class 폴더에 저장
@@ -25,12 +26,12 @@
 ##### [sqlday 　5.sql](https://github.com/jin-hyojoo/2020_youth_academy/blob/master/mysql_class/sql_day5.sql)　　　DB관련 명령어, TABLE관련 명령어, CONSTRAINT(PK,FK)관련 ... (+)pymysql
 
 ##### ✋ 더 알아보기 [Mysql 튜토리얼](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
-
-- ## 🔎_DataScience
+<br>
+  
+ - ## 🔎_DataScience
 DataScience 폴더 이용, Example Codes(수업예제), Notes(필기파일)
 ##### [Lec01](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec01%20Numpy)　　　Numpy ... 
 ##### [Lec02](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec02%20Pandas%20Matplotlib)　　　Pandas ... 
 ##### [Lec03](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec03%20Matplotlib)　　　Matplotlib ... 
 
-##### ✋ 더 알아보기 
-[Numpy](https://numpy.org/doc/stable/user/quickstart.html#)　[Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)　[Matplotlib](https://matplotlib.org/3.1.1/tutorials/index.html)
+##### ✋ 더 알아보기 [Numpy 튜토리얼](https://numpy.org/doc/stable/user/quickstart.html#)　[Pandas 튜토리얼](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)　[Matplotlib 튜토리얼](https://matplotlib.org/3.1.1/tutorials/index.html)
