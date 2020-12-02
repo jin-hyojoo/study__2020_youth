@@ -1,7 +1,7 @@
 ## ✨ 2020 youth academy (청년취업아카데미) 
 파이썬 기반 머신러닝 응용 웹서비스 개발   
 
-## 🐍_PYTHON
+- ## 🐍_PYTHON
 ##### hday 　1 ~ 3-1.py　　　✔ [자료형](https://wikidocs.net/12) 
 ##### hday　　　3-2.py　　　✔ [제어문](https://wikidocs.net/20) 
 ##### hday 4-1 ~ 4-2.py　　　✔ [제어문](https://wikidocs.net/22) / [함수](https://wikidocs.net/24)
@@ -16,7 +16,7 @@
 ##### ✋ 더 알아보기 [파이썬 튜토리얼](https://www.pythontutorial.net)
 
 
-## 🐬_MYSQL  
+- ## 🐬_MYSQL  
 수업 때 작성된 sql문 파일자료는 Mysql_class 폴더에 저장
 ##### [sqlday 　1.sql](https://github.com/jin-hyojoo/2020_youth_academy/blob/master/mysql_class/sql_day1.sql)　　　DDL, DML, WHERE(and, or, between, like, in, any, subquery), ORDER BY, LIMIT ...
 ##### [sqlday 　2.sql](https://github.com/jin-hyojoo/2020_youth_academy/blob/master/mysql_class/sql_day2.sql)　　　집계함수, @SET, ROLL UP, CASTING, GROUP BY, HAVING, 다중분기, CONCAT, FORMAT ...
@@ -25,3 +25,12 @@
 ##### [sqlday 　5.sql](https://github.com/jin-hyojoo/2020_youth_academy/blob/master/mysql_class/sql_day5.sql)　　　DB관련 명령어, TABLE관련 명령어, CONSTRAINT(PK,FK)관련 ... (+)pymysql
 
 ##### ✋ 더 알아보기 [Mysql 튜토리얼](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
+
+- ## 🔎_DataScience
+DataScience 폴더 이용, Example Codes(수업예제), Notes(필기파일)
+##### [Lec01](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec01%20Numpy)　　　Numpy ... 
+##### [Lec02](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec02%20Pandas%20Matplotlib)　　　Pandas ... 
+##### [Lec03](https://github.com/jin-hyojoo/2020_youth_academy/tree/master/DataScience/Example%20Codes/Lec03%20Matplotlib)　　　Matplotlib ... 
+
+##### ✋ 더 알아보기 
+[Numpy](https://numpy.org/doc/stable/user/quickstart.html#)　[Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)　[Matplotlib](https://matplotlib.org/3.1.1/tutorials/index.html)
