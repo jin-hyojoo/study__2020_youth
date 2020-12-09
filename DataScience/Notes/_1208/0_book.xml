@@ -1,0 +1,21 @@
+<!-- XML -->
+<books>
+    <book>
+        <author>Carson</author>
+        <price format="dallor">31.95</price>
+        <pubdate>05/01/2001</pubdate>
+        <pubinfo>
+            <publisher>MS Press</publisher>
+            <publisher>MA</publisher>
+        </pubinfo>
+    </book>
+    <book>
+        <author>Lala</author>
+        <price format="dallor">102.35</price>
+        <pubdate>06/01/2001</pubdate>
+        <pubinfo>
+            <publisher>Korea Press</publisher>
+            <publisher>Seoul</publisher>
+        </pubinfo>
+    </book>
+</books>
