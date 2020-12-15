@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h1>Flask and Matplotlib</h1>
+        <h2>Random data with num_x_points= {{num_x_points}}</h2>
+        <form method="get" action="/">
+            <input name="num_x_points" type="number" value="{{num_x_points}}"/>
+            <input type="submit" value="update graph"/>
+        </form>
+        <h3>Plot as a png </h3>
+        <img src="/matplot-as-image-{{num_x_points}}.png"
+            alt="random points as png"
+            height="200">
+
+    </body>
+</html>
