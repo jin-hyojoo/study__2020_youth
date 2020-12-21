@@ -42,7 +42,7 @@ def getNatVistor(yyyymm, nat_cd, ed_cd):
     retData = get_request_url(url)
     if(retData == None):
         return None
-    else:
+    else:     # json 문자열로 넘어옴 요청데이터를 json 객체에 담아 처리하도록 함(loads())
         return json.loads(retData)
 
 jsonResult = []

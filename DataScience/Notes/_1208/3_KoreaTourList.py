@@ -43,6 +43,8 @@ def getTourPointData(item, yyyymm, jsonResult):
                        'resNm': resNm, 'rnum': rnum,
                        'csForCnt': csForCnt, 'csNatCnt': csNatCnt})
 
+
+# MAIN
 jsonResult = []
 sido, gungu, nPageNum, nTotal, nItems, nStarYear, nEndYear = '서울특별시', '', 1, 0, 100, 2012, 2016
 
@@ -52,14 +54,16 @@ for year in range(nStarYear, nEndYear+1):
         nPageNum = 1
         while True:
             jsonData = getTourPointVisitor(yyyymm, sido, gungu, nPageNum, nItems)
+            
+            # 정상적으로 데이터 들어왔는지 확인
             if(jsonData['response']['header']['resultMsg'] == 'OK'):
                 nTotal = jsonData['response']['body']['totalCount']
 
-                # 데이터 없다면 루프 탈출
+                # 들어온 데이터 없다면 루프 탈출
                 if nTotal == 0:
                     break
 
-                # 데이터 존재할 때 작업진행
+                # 들어온 데이터 존재할 때 작업진행
                 for item in jsonData['response']['body']['items']['item']:
                     getTourPointData(item, yyyymm, jsonResult)
 
@@ -69,6 +73,7 @@ for year in range(nStarYear, nEndYear+1):
                 nPageNum += 1
         else:
             break
+
 
 # json 파일로 저장
 with open('%s_관광지입장정보_%d_%d.json'%(sido, nStarYear, nEndYear), 'w', encoding='utf8') as outfile:
