@@ -1,5 +1,11 @@
 ## ✨ 2020 youth academy (청년취업아카데미) 
-파이썬 기반 머신러닝 응용 웹서비스 개발   
+파이썬 기반 머신러닝 응용 웹서비스 개발    
+<br>
+
+## 🔥 프로젝트
+공공도서관API와 FLASK를 활용한    
+[희망 도서 검색 서비스](https://github.com/jin-hyojoo/project__2020_youth) 
+
 <br>
 
 - ## 🐍_PYTHON
